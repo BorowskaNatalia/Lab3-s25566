@@ -1,0 +1,4 @@
+Wyniki modelu Random Forest:
+Mean Absolute Error (MAE): 0.6930134227217732
+Mean Squared Error (MSE): 0.7486899269647365
+R-squared (R2): 0.2579263996257767
